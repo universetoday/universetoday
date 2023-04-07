@@ -21,7 +21,6 @@
 🌱 &nbsp;In my free time I do sports and play games.\
 ✉️ &nbsp;You can shoot me an email at universetodayru@gmail.com! I'll try my best to respond as quickly as possible.\
 
-<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE3YWJhMTI0YTUwMzA4ZDUwNGYzNDFhNmExYjE5MGI1MjFhMjMxNCZjdD1n/l3q2WMhNcyFOWP280/giphy.gif" align="right" width="150"/>
 
 ### 🛠 &nbsp;Tech Stack
 

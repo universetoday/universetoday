@@ -72,7 +72,7 @@ Version Control:\
  
 ### ⭐ &nbsp;My Stats
 
-Codewars
+Codewars\
 [![Codewars](https://www.codewars.com/users/universetoday/badges/large)](https://www.codewars.com/users/universetoday)\
-Leetcode
+Leetcode\
 [![Leetcode](https://leetcode-stats-six.vercel.app/api?username=universetodayru&theme=dark)](https://leetcode.com/universetodayru/)

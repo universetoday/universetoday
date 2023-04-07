@@ -30,9 +30,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=092E20)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=092E20)&nbsp;
+\
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![SQlite3](https://img.shields.io/badge/-SQlite3-05122A?style=flat&logo=SQlite3)\
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

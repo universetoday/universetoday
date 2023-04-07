@@ -3,14 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/NikolaevAV159">
+  <a href="https://t.me/mercury_venus_earth">
     <img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&color=fdd748&logo=telegram&logoColor=blue" alt="TG Badge" width="118"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=UsefulSan&style=for-the-badge&color=blue" alt="View Counter" width="100"/>
-</div>
   
 <h1>
   <div align="center">
@@ -32,6 +29,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Django-05122A?style=flat&logo=tensorflow&logoColor=092E20)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;

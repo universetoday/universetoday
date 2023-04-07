@@ -43,8 +43,8 @@ Version Control: ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=fla
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=universetoday&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=universetoday&hide=prs,issues,contribs&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=universetoday&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=universetoday&hide=prs,issues,contribs&show_icons=true&theme=vision-friendly-light&include_all_commits=true&count_private=true"/>
 </a>
 </p>
  

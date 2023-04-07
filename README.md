@@ -60,4 +60,4 @@ Data Bases:\
 ### ⭐ &nbsp;My Stats
     
 [![Codewars](https://www.codewars.com/users/universetoday/badges/large)](https://www.codewars.com/users/universetoday)\
-[![Leetcode](https://leetcode-stats-six.vercel.app/api?username=universetoday&theme=dark)](https://leetcode.com/universetoday/)
+[![Leetcode](https://leetcode-stats-six.vercel.app/api?username=universetodayru&theme=dark)](https://leetcode.com/universetoday/)

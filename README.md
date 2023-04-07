@@ -28,7 +28,7 @@ Languages: ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo
 
 Neural Networks: ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=092E20) ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=092E20)&nbsp;
 
-Machine Learning: ![Matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=tensorflow&logoColor=092E20) ![Numpy](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=numpy&logoColor=092E20) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+Machine Learning: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=tensorflow&logoColor=092E20) ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=092E20) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 Web: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 

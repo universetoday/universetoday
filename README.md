@@ -3,9 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/aleksandr-nikolaev1904/">
-    <img src="https://img.shields.io/badge/LinkedIn-366e9d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="115"/>
-  </a>
   <a href="https://t.me/NikolaevAV159">
     <img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&color=fdd748&logo=telegram&logoColor=blue" alt="TG Badge" width="118"/>
   </a>
@@ -18,7 +15,7 @@
 <h1>
   <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3500&pause=1000&width=500&lines=%E3%80%90%EF%BB%BF%EF%BC%A8%EF%BD%89%E3%80%80%EF%BD%94%EF%BD%88%EF%BD%85%EF%BD%92%EF%BD%85%EF%BC%8C%E3%80%80%EF%BD%89%EF%BC%87%EF%BD%8D%E3%80%80%EF%BC%A1%EF%BD%8C%EF%BD%85%EF%BD%8B%EF%BD%93%EF%BD%81%EF%BD%8E%EF%BD%84%EF%BD%92%E3%80%91" alt="Typing SVG" /></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3500&pause=1000&width=500&lines=Hi there! I'm Marina" alt="Typing SVG" /></a>
   </div>
 </h1>
 
@@ -58,8 +55,6 @@
 </p>
  
 ### ⭐ &nbsp;My Stats
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=DEB535&vCenter=true&width=180&height=20&lines=In+progress+%E2%8C%9B" alt="Typing SVG" /></a>
     
 [![Codewars](https://www.codewars.com/users/universetoday/badges/large)](https://www.codewars.com/users/universetoday)\
 [![Leetcode](https://leetcode-stats-six.vercel.app/api?username=universetoday&theme=dark)](https://leetcode.com/universetoday/)

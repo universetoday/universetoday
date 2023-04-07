@@ -51,7 +51,7 @@ Data Bases:\
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/universetoday/github-readme-stats">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=universetoday&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=universetoday&hide=prs,issues,contribs&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </a>
@@ -60,4 +60,4 @@ Data Bases:\
 ### ⭐ &nbsp;My Stats
     
 [![Codewars](https://www.codewars.com/users/universetoday/badges/large)](https://www.codewars.com/users/universetoday)\
-[![Leetcode](https://leetcode-stats-six.vercel.app/api?username=universetodayru&theme=dark)](https://leetcode.com/universetoday/)
+[![Leetcode](https://leetcode-stats-six.vercel.app/api?username=universetodayru&theme=dark)](https://leetcode.com/universetodayru/)

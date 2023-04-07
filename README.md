@@ -12,7 +12,7 @@
 <h1>
   <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3500&pause=1000&width=500&lines=Hi there! I'm Marina" alt="Typing SVG" /></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3500&pause=1000&width=500&lines=Hi there! I'm Marina. Data Scientist, Developer, Founder." alt="Typing SVG" /></a>
   </div>
 </h1>
 

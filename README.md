@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="120"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://t.me/mercury_venus_earth">

@@ -28,7 +28,7 @@ Languages: ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo
 
 Neural Networks: ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=092E20) ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=092E20)&nbsp;
 
-Machine Learning: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=tensorflow&logoColor=092E20) ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=092E20) ![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-05122A?style=flat&logo=scikit-learn&logoColor=092E20) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+Machine Learning: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=tensorflow&logoColor=092E20) ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=092E20) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 Web: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
@@ -44,7 +44,7 @@ Version Control: ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=fla
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=universetoday&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=universetoday&hide=prs,issues,contribs&show_icons=true&theme=vision-friendly-light&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=universetoday&hide=prs,issues,contribs&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </a>
 </p>
  

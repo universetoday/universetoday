@@ -37,4 +37,4 @@ Version Control: ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=fla
 Codewars\
 [![Codewars](https://www.codewars.com/users/universetoday/badges/large)](https://www.codewars.com/users/universetoday)\
 Leetcode\
-![](https://leetcard.jacoblin.cool/universetodayru?ext=contest)
+[![Leetcode](https://leetcard.jacoblin.cool/universetodayru?ext=contest)](https://leetcode.com/u/universetodayru/)
